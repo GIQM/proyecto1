@@ -1,0 +1,63 @@
+[
+    {
+      "img": "url('/img/landscape1.jpg')",
+      "border": "4px solid ##fffbac",
+      "shadow": "0px 0px 50px 1px ##fffbac",
+      "color": "##fffbac"
+    },
+    {
+      "img": "url('/img/landscape2.jpg')",
+      "border": "4px solid #004d95",
+      "shadow": "0px 0px 50px 1px #004d95",
+      "color": "#004d95"
+    },
+    {
+      "img": "url('/img/landscape3.jpg')",
+      "border": "4px solid #40fb7f",
+      "shadow": "0px 0px 50px 1px #40fb7f",
+      "color": "#40fb7f"
+    },
+    {
+      "img": "url('/img/landscape4.jpg')",
+      "border": "4px solid #7a009f",
+      "shadow": "0px 0px 50px 1px #7a009f",
+      "color": "#7a009f"
+    },
+    {
+      "img": "url('/img/landscape5.jpg')",
+      "border": "4px solid ##f86f51",
+      "shadow": "0px 0px 50px 1px ##f86f51",
+      "color": "##f86f51"
+    },
+    {
+      "img": "url('/img/landscape6.jpg')",
+      "border": "4px solid #ff2f00",
+      "shadow": "0px 0px 50px 1px #ff2f00",
+      "color": "#ff2f00"
+    },
+    {
+      "img": "url('/img/landscape7.jpg')",
+      "border": "4px solid #20daa4",
+      "shadow": "0px 0px 50px 1px #20daa4",
+      "color": "#20daa4"
+    },
+    {
+      "img": "url('/img/landscape8.jpg')",
+      "border": "4px solid #4c61d6",
+      "shadow": "0px 0,px 50px 1px #4c61d6",
+      "color": "#4c61d6"
+    },
+    {
+      "img": "url('/img/landscape9.jpg')",
+      "border": "4px solid #d1ff61",
+      "shadow": "0px 0,px 50px 1px #d1ff61",
+      "color": "#d1ff61"
+    },
+    {
+      "img": "url('/img/landscape10.jpg')",
+      "border": "4px solid #00c8ff",
+      "shadow": "0px 0,px 50px 1px #00c8ff",
+      "color": "#00c8ff"
+    }
+  ]
+  
